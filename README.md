@@ -6,7 +6,7 @@ The example was build to illustrate the benefits of the move constructor.
 
 ## Execution 
 
-The ececutable can be build via "make bookstore".
+The executable can be build via "make bookstore".
 
 
 ## Known errors
